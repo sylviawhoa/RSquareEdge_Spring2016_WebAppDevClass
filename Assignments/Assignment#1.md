@@ -21,7 +21,7 @@
 ## How to create a fork and open a pull request
 ------------------------------------------------------------------
 1. On the Github page of the class repository, click 'Fork' in the upper right hand corner. It will create a copy of the class repo in your Github account
-2. Go to your fork on github, and click on the 'copy to clipboard' button HINT: Your forked page on github should follow the url pattern: https://github.com/`<your_github_name>`/RSquareEdge_Spring2016_WebAppDevClass.
+2. Go to your fork on github, and click on the 'copy to clipboard' button HINT: Your forked page on github should follow the url pattern: https://github.com/`your_github_name`/RSquareEdge_Spring2016_WebAppDevClass.
 4. Clone the URL in terminal with: `git clone <url you copied on the clipboard>`
 5. `cd` into the cloned folder
 6. Create a branch called `assignment1_<your_name>`
