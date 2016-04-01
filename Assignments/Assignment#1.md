@@ -8,7 +8,7 @@
 6. Each picture should fill it's entire section of the grid
 7. Commit changes at significant intervals during page creation
 8. Create a pull request to this repo with the <your name> folder
-9. Add a screenshot of your terminal window (with git commands) to the folder, add, commit, and push 
+9. Add a screenshot of your terminal window (with git commands) to the folder, then add, commit, and push 
 
 #Assignment #1B - Vim
 ------------------------------------------------------------------
